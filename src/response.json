@@ -1,0 +1,20 @@
+{
+    "password": [
+        {
+            "type": "md5",
+            "hash": ""
+        },
+        {
+            "type": "nt",
+            "hash": ""
+        }
+    ],
+    "tag": [
+        "cli",
+        "http",
+        "http-proxy",
+        "ipsec-xauth",
+        "sstp",
+        "opt"
+    ]
+}
